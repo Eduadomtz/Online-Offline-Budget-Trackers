@@ -8,7 +8,7 @@ const FILES_TO_CACHE = [
     "/icons/icon-512x512.png"
 ]
 
-const STATIC_CACHE = "static-cache-v1";
+const STATIC_CACHE = "static-cache-v2";
 const DATA_CACHE = "data-cache-v1";
 
 self.addEventListener("install", event => {
