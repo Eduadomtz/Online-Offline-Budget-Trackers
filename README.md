@@ -8,7 +8,7 @@ The user is able to add expenses and deposits to their budget with or without a 
 ## Installation
 This project has been deployed to GitHub. https://github.com/Eduadomtz/Online-Offline-Budget-Trackers
 
-To get this project up and running, you can follow the deployment link. 
+To get this project up and running, you can follow the deployment link. https://aqueous-bastion-13549.herokuapp.com
 
 ## Usage
 Insert your expenses or deposits. They will be updated even if you work offline.
